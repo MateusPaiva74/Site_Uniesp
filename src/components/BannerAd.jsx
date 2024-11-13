@@ -3,16 +3,25 @@ import { Box } from '@mui/material'
 import { styled } from '@mui/system'
 
 const StyledBannerAd = styled(Box)({
-  backgroundImage: `url('https://via.placeholder.com/1200x200?text=Propaganda+Banner')`,
-  backgroundSize: 'cover',
-  backgroundPosition: 'center', 
-  height: '200px', 
+  
+  display: 'flex',
+  justifyContent: 'center',
+  alignItems:'center',
   marginBottom: '24px',
-  borderRadius: '8px' 
+  borderRadius: '8px',
+  overflow: 'hidden', 
 })
 
 const BannerAd = () => {
-  return <StyledBannerAd />
-}
-
-export default BannerAd
+    return (
+      <StyledBannerAd>
+        <img
+          src="/VESTIBULAR.gif"
+          alt="Banner do Vestibular"
+          style={{ width: '100%', height: '300px', borderRadius: '8px' }}
+        />
+      </StyledBannerAd>
+    )
+  }
+  
+  export default BannerAd
