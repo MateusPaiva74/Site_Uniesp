@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+SiteUniesp Um site próprio bem funcional e com CSS, utilizando diversos imports e bibliotecas aprendidas em sala para que realmente fique um produto autêntico e muito mais refinado para se usar.Com a pasta SRC poderá ver todo o código escrito junto da pasta admin e components e os componentes pai, colocamos mais detalhes das outras páginas e utilizamos outras funções, como botões, listas, etc.
