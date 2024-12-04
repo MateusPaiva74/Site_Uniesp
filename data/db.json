@@ -1,0 +1,19 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Tecnologia avança com GPT",
+            "texto": "Pesquisas em IA generativa."
+        },
+        {
+            "id": 2,
+            "titulo": "Mercado financeiro fecha em alta",
+            "texto": "Bolsa de valores registra novo recorde de valorização com a recuperação econômica global."
+        },
+        {
+            "id": 3,
+            "titulo": "Cientistas astronautas descobrem nova doença rara",
+            "texto": "Astronautas identificam planeta fora do sistema solar com doença nunca vista"
+        }
+    ]
+}
